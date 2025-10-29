@@ -1,11 +1,11 @@
-﻿# AuxÃ­lio a Jogos de Mesa (React + TS)
+﻿# Auxi­lio a Jogos de Mesa (React + TS)
 
 Aplicativo somente frontend para auxiliar jogadores de Boardgames, Party Games e RPG.
 
 ## Funcionalidades
 - Dados: d4, d6, d8, d10, d12, d20, d100 com histÃ³rico de rolagens.
-- Vida: atÃ© 16 jogadores, vida inicial configurÃ¡vel (0â€“10000), seleÃ§Ã£o de cor por jogador, controles de -/+ ao clicar na cor.
-- IA (Mock): base de palavras filtrÃ¡vel por categoria e busca.
+- Vida: Até 16 jogadores, vida inicial configurÃ¡vel (10000 pontos de vida como limite), seleção de cor por jogador, controles de -/+ ao clicar na cor.
+- IA (Mock): base de palavras filtráveis por categoria e busca.
 
 ## Rodando o projeto
 ```
