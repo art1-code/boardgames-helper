@@ -119,6 +119,7 @@ export default function LifeCounterSection() {
                     <div className="controls">
                       <button className="btn" onClick={() => changeLife(p.id, -10)}>-10</button>
                       <button className="btn" onClick={() => changeLife(p.id, -1)}>-1</button>
+                      <button className="btn" onClick={() => changeLife(p.id, 0)}>RESET</button>
                       <button className="btn" onClick={() => changeLife(p.id, +1)}>+1</button>
                       <button className="btn" onClick={() => changeLife(p.id, +10)}>+10</button>
                     </div>
